@@ -47,3 +47,5 @@ increment minor; clarifications/fixes increment patch.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+[![advertisement](https://ads.servead.net/i/6947b936-b81d-477e-b988-cf2d58fae854.svg)](https://ads.servead.net/c/6947b936-b81d-477e-b988-cf2d58fae854)
